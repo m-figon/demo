@@ -1,75 +1,101 @@
 {
-  "PRACOWNICY" : [
-    {"imie": "Jan", "nazwisko": "Kowalski", "dzial": "IT", "wynagrodzenieKwota": "3000", "wynagrodzenieWaluta": "PLN"},
-    {"imie": "Anna", "nazwisko": "Bąk", "dzial": "Administracja", "wynagrodzenieKwota": "2400.50", "wynagrodzenieWaluta": "PLN"},
-    {"imie": "Paweł", "nazwisko": "Zabłocki", "dzial": "IT", "wynagrodzenieKwota": "3300", "wynagrodzenieWaluta": "PLN"},
-    {"imie": "Tomasz", "nazwisko": "Osiecki", "dzial": "Administracja", "wynagrodzenieKwota": "2100", "wynagrodzenieWaluta": "PLN"},
-    {"imie": "Iwona", "nazwisko": "Leihs-Gutowska", "dzial": "Handlowiec", "wynagrodzenieKwota": "3100", "wynagrodzenieWaluta": "PLN"}
-],
-"users" : [
-  {
-    "id": 1,
-    "address": {
-      "city": "Gwenborough",
-      }
-  },
-  {
-    "id": 2,
-    "address": {
-      "city": "Wisokyburgh",
-      }
-   },
-  {
-    "id": 3,
-    "address": {
-      "city": "McKenziehaven",
-      }
-    
-  },
-  {
-    "id": 4,
-    "address": {
-      "city": "South Elvis",
-      }
+  "PRACOWNICY": [
+    {
+      "imie": "Jan",
+      "nazwisko": "Kowalski",
+      "dzial": "IT",
+      "wynagrodzenieKwota": "3000",
+      "wynagrodzenieWaluta": "PLN"
     },
-  {
-    "id": 5,
-    "address": {
-      "city": "Roscoeview",
-     
-  },
-  {
-    "id": 6,
-    "address": {
-      "city": "South Christy",
+    {
+      "imie": "Anna",
+      "nazwisko": "Bąk",
+      "dzial": "Administracja",
+      "wynagrodzenieKwota": "2400.50",
+      "wynagrodzenieWaluta": "PLN"
     },
-  },
-  {
-    "id": 7,
-    "address": {
-      "city": "Howemouth",
-      }
- 
-  },
-  {
-    "id": 8,
-    "address": {
-      "city": "Aliyaview",
-  }
-  },
-  {
-    "id": 9,
-    "address": {
-      "city": "Bartholomebury"
-	  }
-  },
-  {
-    "id": 10,
-    "address": {
-      "city": "Lebsackbury",
-      
+    {
+      "imie": "Paweł",
+      "nazwisko": "Zabłocki",
+      "dzial": "IT",
+      "wynagrodzenieKwota": "3300",
+      "wynagrodzenieWaluta": "PLN"
+    },
+    {
+      "imie": "Tomasz",
+      "nazwisko": "Osiecki",
+      "dzial": "Administracja",
+      "wynagrodzenieKwota": "2100",
+      "wynagrodzenieWaluta": "PLN"
+    },
+    {
+      "imie": "Iwona",
+      "nazwisko": "Leihs-Gutowska",
+      "dzial": "Handlowiec",
+      "wynagrodzenieKwota": "3100",
+      "wynagrodzenieWaluta": "PLN"
     }
-  }
-]
+  ],
+  "users": [
+    {
+      "id": 1,
+      "address": {
+        "city": "Gwenborough"
+      }
+    },
+    {
+      "id": 2,
+      "address": {
+        "city": "Wisokyburgh"
+      }
+    },
+    {
+      "id": 3,
+      "address": {
+        "city": "McKenziehaven"
+      }
+    },
+    {
+      "id": 4,
+      "address": {
+        "city": "South Elvis"
+      }
+    },
+    {
+      "id": 5,
+      "address": {
+        "city": "Roscoeview"
+      }
+    },
+    {
+      "id": 6,
+      "address": {
+        "city": "South Christy"
+      }
+    },
+    {
+      "id": 7,
+      "address": {
+        "city": "Howemouth"
+      }
+    },
+    {
+      "id": 8,
+      "address": {
+        "city": "Aliyaview"
+      }
+    },
+    {
+      "id": 9,
+      "address": {
+        "city": "Bartholomebury"
+      }
+    },
+    {
+      "id": 10,
+      "address": {
+        "city": "Lebsackbury"
+      }
+    }
+  ]
 }
-
