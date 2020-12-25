@@ -103,54 +103,63 @@
       "author": "Icona Pop",
       "title": "Still Don't Know",
       "duration": "3:16",
+      "heart": false,
       "id": 0
     },
     {
       "author": "Icona Pop",
       "title": "I Love It",
       "duration": "2:35",
+      "heart": false,
       "id": 1
     },
     {
       "author": "Icona Pop",
       "title": "Girlfriend",
       "duration": "2:50",
+      "heart": false,
       "id": 2
     },
     {
       "author": "Icona Pop",
       "title": "We Got the World",
       "duration": "3:07",
+      "heart": false,
       "id": 3
     },
     {
       "author": "Icona Pop",
       "title": "Nights Like This",
       "duration": "3:24",
+      "heart": false,
       "id": 4
     },
     {
       "author": "Icona Pop",
       "title": "My Party",
       "duration": "3:47",
+      "heart": false,
       "id": 5
     },
     {
       "author": "Icona Pop",
       "title": "Emergency",
       "duration": "2:56",
+      "heart": false,
       "id": 6
     },
     {
       "author": "Icona Pop",
       "title": "Clap Snap",
       "duration": "2:44",
+      "heart": false,
       "id": 7
     },
     {
       "author": "Icona Pop",
       "title": "Feels In My Body",
       "duration": "2:41",
+      "heart": false,
       "id": 8
     }
 ]
