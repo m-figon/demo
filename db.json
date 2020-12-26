@@ -104,6 +104,7 @@
       "title": "Still Don't Know",
       "duration": "3:16",
       "heart": false,
+      "img": "https://eurochannel.com/images/stories/Icona_Pop_01.jpg",
       "id": 0
     },
     {
@@ -111,6 +112,7 @@
       "title": "I Love It",
       "duration": "2:35",
       "heart": false,
+      "img": "https://s.mxmcdn.net/images-storage/albums/7/6/0/6/6/5/26566067_800_800.jpg",
       "id": 1
     },
     {
@@ -118,6 +120,7 @@
       "title": "Girlfriend",
       "duration": "2:50",
       "heart": false,
+      "img": "https://www.scandipop.co.uk/wp-content/uploads/2013/05/icona-pop-girlfriend-artwork.jpg",
       "id": 2
     },
     {
@@ -125,6 +128,7 @@
       "title": "We Got the World",
       "duration": "3:07",
       "heart": false,
+      "img": "https://i.pinimg.com/originals/a3/c6/f3/a3c6f3045b447febf6b51e0e41c0afb0.jpg",
       "id": 3
     },
     {
@@ -132,6 +136,7 @@
       "title": "Nights Like This",
       "duration": "3:24",
       "heart": false,
+      "img": "https://img.discogs.com/VXtcBQYVF1rTI0fQ8sPfntmCUEY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3872081-1376094649-3335.jpeg.jpg",
       "id": 4
     },
     {
@@ -139,6 +144,7 @@
       "title": "My Party",
       "duration": "3:47",
       "heart": false,
+      "img": "https://images.genius.com/1fcb96077afe7b4abdd5e92086faeb7c.500x500x1.jpg",
       "id": 5
     },
     {
@@ -146,6 +152,7 @@
       "title": "Emergency",
       "duration": "2:56",
       "heart": false,
+      "img": "https://lastfm.freetls.fastly.net/i/u/ar0/0e63fb19ad27639e88f11111ee732f87.jpg",
       "id": 6
     },
     {
@@ -153,6 +160,7 @@
       "title": "Clap Snap",
       "duration": "2:44",
       "heart": false,
+      "img": "https://eurochannel.com/images/stories/Icona_Pop_01.jpg",
       "id": 7
     },
     {
@@ -160,6 +168,7 @@
       "title": "Feels In My Body",
       "duration": "2:41",
       "heart": false,
+      "img": "https://atwoodmagazine.com/wp-content/uploads/2020/08/Icona-Pop-Feels-In-My-Body-min-scaled.jpg",
       "id": 8
     }
 ]
